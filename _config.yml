@@ -1,0 +1,28 @@
+name: Process Palette
+favicon: null
+layout_spectrum: 0.5216108001768589
+typography_spectrum: 0.7590496153570712
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7872729974333197
+  lightness: 0.5420156389009207
+  saturation: 0.6108470319304615
+  rhythmicContrast: 0.59150435263291
+purpose: []
